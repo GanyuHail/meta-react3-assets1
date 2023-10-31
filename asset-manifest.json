@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/meta-react3-assets1/static/js/main.89cc68eb.js",
+    "main.js": "/meta-react3-assets1/static/js/main.904598d6.js",
     "static/media/logo.png": "/meta-react3-assets1/static/media/logo.d4cae6fac8384c2dae04.png",
     "index.html": "/meta-react3-assets1/index.html",
-    "main.89cc68eb.js.map": "/meta-react3-assets1/static/js/main.89cc68eb.js.map"
+    "main.904598d6.js.map": "/meta-react3-assets1/static/js/main.904598d6.js.map"
   },
   "entrypoints": [
-    "static/js/main.89cc68eb.js"
+    "static/js/main.904598d6.js"
   ]
 }
